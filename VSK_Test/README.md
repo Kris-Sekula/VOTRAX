@@ -3,7 +3,7 @@
 The sketch drives the VSK module directly, without the S-100 card, so the data is positive-true with no inverters. All data high (3Fh) means silence; the sketch outputs that whenever its queue is empty and at startup.
 
 ## Wiring (digital signals only; Nano GND must be common with VSK pin 8)
-
+![How to connect](https://github.com/Kris-Sekula/VOTRAX/blob/main/VSK_Test/votrax_vsk_module_pinout_bottom_view.png)
 | VSK pin | Signal | Nano | AVR |
 |---|---|---|---|
 | 14 | DATA0 (LSB) | A0 | PC0 |
