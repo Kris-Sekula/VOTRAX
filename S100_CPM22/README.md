@@ -1,5 +1,13 @@
 # VSKTEST.COM — CP/M 2.2 bring-up and speech test for the rebuilt card
 
+## Hardware:
+
+Finished re-building the S100 Votrax card. Pictured here without the VSK module fitted. I wanted to first do some tests, confirm the pin control
+works as expected etc. The VSKTEST utilitiy helps with the card hardware bring-up and final testing with the VSK module fitted.
+
+
+## Files:
+
 Files are in `Votrax\S100_CPM22\`:
 - VSKTEST.ASM: DRI ASM source in 8080 syntax, which also runs on the 8085.
 - VSKTEST.COM: the assembled program, 3413 bytes, version with speech (2026-11-22).
