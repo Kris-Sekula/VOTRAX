@@ -5,6 +5,7 @@
 Finished re-building the S100 Votrax card. Pictured here without the VSK module fitted. I wanted to first do some tests, confirm the pin control
 works as expected etc. The VSKTEST utilitiy helps with the card hardware bring-up and final testing with the VSK module fitted.
 
+![S100_noVSK](https://github.com/Kris-Sekula/VOTRAX/blob/main/S100_CPM22/S100_no_VSK.jpg)
 
 ## Files:
 
